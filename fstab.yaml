@@ -1,5 +1,4 @@
 mountpoints:
   /:
-    url: https://author-p155453-e1648365.adobeaemcloud.com/bin/franklin.delivery/ezhiloli/infyEDSforms/main
+    url: https://drive.google.com/drive/u/0/folders/1ffH362ABcigvAduR2I0SgElQTNQ6rdPK
     type: "markup"
-    suffix: '.html'
